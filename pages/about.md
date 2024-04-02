@@ -14,9 +14,9 @@ credits: true
 
 ## About the Collection
 
-T
-- a
-- a
+important photos of brie
+- A photos 6 years ago
+- Brie celebrating her 18th birthday
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
