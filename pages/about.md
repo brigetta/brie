@@ -14,9 +14,9 @@ credits: true
 
 ## About the Collection
 
-Important photos of brie
-- A photos 6 years ago
-- Brie celebrating her 18th birthday
+Brie reminders
+- Keep on going 
+- Take the time today to love yourself 
   
 {% include feature/image.html objectid="brigette4" %}
 
