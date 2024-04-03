@@ -18,7 +18,7 @@ Important photos of brie
 - A photos 6 years ago
 - Brie celebrating her 18th birthday
   
-{% include feature/image.html objectid="brigette5" %}
+{% include feature/image.html objectid="brigette4" %}
 
 
 ## Acknowledgement 
