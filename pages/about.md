@@ -14,7 +14,9 @@ credits: true
 
 ## About the Collection
 
-important photos of brie
+Important photos of brie
 - A photos 6 years ago
 - Brie celebrating her 18th birthday
 
+## Acknowledgement 
+I would like to express my heartfelt gratitude to my Instructor Mr. Woolsey A. Lonzon  and to my classmates for invaluable support and inspiration in the creation of this website. Their encouragement and guidance have been instrumental in bringing my vision to life. I am also deeply thankful to my friends, boyfriend, and family for always believing me that I can finish  this website. This website is a testament collective efforts and I am truly grateful for each and every one of you.
