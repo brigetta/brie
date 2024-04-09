@@ -27,7 +27,7 @@ $theme-colors: map-merge(
   ),
   $theme-colors
 );
-@import "theme-colors", "theme-utilities";
+@import "pink", "theme-utilities";
 {% endif %}
 
 @import "base", "pages", "custom";
